@@ -13,9 +13,11 @@ E=mc^2
 $$
 
 Bhaskara:
+
 $$
 x = \dfrac{-b\pm \sqrt{\Delta}}{2a}
 $$
+
 $$
 \Delta = b^2-4ac
 $$
